@@ -1,0 +1,6 @@
+
+#sergio gutierrez lopez
+#03/10/2026
+#entender usar git bash y la introduccion a git bash
+#Un Pull Request es una solicitud que se hace en GitHub para proponer cambios en un proyecto y pedir que esos cambios se integren al repositorio principal 
+
